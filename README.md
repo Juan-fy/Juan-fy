@@ -7,4 +7,4 @@ My name is Juan
 
 ### Contact 📫
 
-[@juan.fy_](https://www.instagram.com/juan.fy_/)
+@juan.fy_
