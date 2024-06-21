@@ -3,7 +3,7 @@
 My name is Juan
 
 - I'm studying at [Alura](https://www.alura.com.br)
-- I'm learning the JavaScript language
+- I'm learning JavaScript language
 
 ### Contact 📫
 
